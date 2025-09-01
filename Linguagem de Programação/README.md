@@ -2,6 +2,8 @@
 <h3 align="justify"> ★ 𝖠𝗍𝗂𝗏𝗂𝖽𝖺𝖽𝖾 𝟣 </h3>
 <p align="justify"> • https://docs.google.com/spreadsheets/d/19TZj030KsE1TweVnIt969PgnAndpzu_J2kMY_0Adoho/edit?usp=sharing </p>
 <h3 align="justify"> ★ 𝖠𝗍𝗂𝗏𝗂𝖽𝖺𝖽𝖾 𝟤 </h3>
+<p align="justify"> • Música: https://open.spotify.com/track/1ZcxexxlkOQXYSWjUJNxIz?si=7AR8AtSuSji7zMAhI4dVCQ </p>
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/26a0e553-5552-4190-b7e0-041999d44ecd" />
 <h3 align="justify"> ★ 𝖠𝗍𝗂𝗏𝗂𝖽𝖺𝖽𝖾 𝟥 </h3>
 <h3 align="justify"> ★ 𝖠𝗍𝗂𝗏𝗂𝖽𝖺𝖽𝖾 𝟦 </h3>
 <h3 align="justify"> ★ 𝖠𝗍𝗂𝗏𝗂𝖽𝖺𝖽𝖾 𝟧 </h3>
