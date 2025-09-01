@@ -1,5 +1,6 @@
 <h1 align="center"> .⋆♱ 𝕷𝖎𝖓𝖌𝖚𝖆𝖌𝖊𝖒 𝖉𝖊 𝕻𝖗𝖔𝖌𝖗𝖆𝖒𝖆𝖈̧𝖆̃𝖔 ♱⋆. </h1>
 <h3 align="justify"> ★ 𝖠𝗍𝗂𝗏𝗂𝖽𝖺𝖽𝖾 𝟣 </h3>
+<p align="justify"> • https://docs.google.com/spreadsheets/d/19TZj030KsE1TweVnIt969PgnAndpzu_J2kMY_0Adoho/edit?usp=sharing </p>
 <h3 align="justify"> ★ 𝖠𝗍𝗂𝗏𝗂𝖽𝖺𝖽𝖾 𝟤 </h3>
 <h3 align="justify"> ★ 𝖠𝗍𝗂𝗏𝗂𝖽𝖺𝖽𝖾 𝟥 </h3>
 <h3 align="justify"> ★ 𝖠𝗍𝗂𝗏𝗂𝖽𝖺𝖽𝖾 𝟦 </h3>
